@@ -1,2 +1,0 @@
-# ServerPlacesHCL
-Created with CodeSandbox
